@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = git@github.com:realthunder/Buttons_Switches_SMD.3dshapes.src.git
